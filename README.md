@@ -6,3 +6,4 @@ This is an automated deployment repo that holds the structure and files required
 1. Create directory with files
 2. Create automated file
 3. Sip Coffee
+4. AutomateTHESTUFFS
