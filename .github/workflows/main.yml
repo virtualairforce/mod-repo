@@ -1,0 +1,9 @@
+- name: OVGME Repo Builder
+  # You may pin to the exact commit or the version.
+  # uses: fateyan/action-discord-notifier@2d543d3e7e2c63546420b10f2652cb61e24578fc
+  uses: fateyan/action-discord-notifier@v1.2.0
+  with:
+    # A full discord webhook url
+    webhook: https://discord.com/api/webhooks/872951218576687155/xWVeXnmaWYvTL6kZlVk7PyWsJGOv1C55QVGFqT2eEsUPRvFDsbqzWgYiMD6P5oKH8EQO
+    # Message title
+    message-title: Build Notification
