@@ -7,7 +7,7 @@
     <remote ident="2_squadron" file="2_squadron.zip" bytes="277422609" checksum="cf3fe9889358bf25">
       <url>https://github.com/virtualairforce/mod-repo/raw/main/repo/</url>
     </remote>
-    <remote ident="3_squadron v1.4" file="3_squadron v1.4.zip" bytes="272434420" checksum="96fab37db8d6d8a2">
+    <remote ident="3_squadron v1.4" file="3_squadron v1.4.zip" bytes="272434420" checksum="91baab7b38385b6c83c9fcd46959d538">
       <url>https://github.com/virtualairforce/mod-repo/raw/main/repo/</url>
     </remote>
   </remotes>
