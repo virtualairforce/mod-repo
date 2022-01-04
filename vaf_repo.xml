@@ -3,12 +3,21 @@
   <uuid>0f03dbf5-2690-472a-adb1-a80b513b5234</uuid>
   <title>VAF Repo</title>
   <downpath>files/</downpath>
-  <remotes count="2">
+  <remotes count="5">
     <remote ident="2_squadron" file="2_squadron.zip" bytes="277422609" checksum="cf3fe9889358bf25">
       <url>https://github.com/virtualairforce/mod-repo/blob/main/repo/2_squadron.zip?raw=true</url>
     </remote>
-    <remote ident="3_squadron v1.4" file="3_squadron v1.4.zip" bytes="272434420" checksum="96fab37db8d6d8a2">
-      <url>https://github.com/virtualairforce/mod-repo/blob/main/repo/3_squadron%20v1.4.zip?raw=true</url>
+    <remote ident="3_squadron v1.5" file="3_squadron v1.5.zip" bytes="303444981" checksum="73503130661cbda2">
+      <url>https://github.com/virtualairforce/mod-repo/blob/main/repo/3_squadron%20v1.5.zip?raw=true/</url>
+    </remote>
+    <remote ident="870 Squadron ZA" file="870 Squadron ZA.zip" bytes="18204605" checksum="c7496b4b360db654">
+      <url>https://github.com/virtualairforce/mod-repo/blob/main/repo/870%20Squadron%20VAF.zip?raw=true/</url>
+    </remote>
+    <remote ident="L-39C 870 Squadron" file="L-39C 870 Squadron.zip" bytes="11172348" checksum="50345f78cab9db42">
+      <url>https://github.com/virtualairforce/mod-repo/blob/main/repo/L-39C%20870%20Squadron.zip?raw=true/</url>
+    </remote>
+    <remote ident="416 Squadron VAF" file="416 Squadron VAF.zip" bytes="69857929" checksum="f429099754d7621d">
+      <url>https://github.com/virtualairforce/mod-repo/blob/main/repo/416%20Squadron%20VAF.zip?raw=true/</url>
     </remote>
   </remotes>
 </Open_Mod_Manager_Repository>
