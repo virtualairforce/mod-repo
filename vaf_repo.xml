@@ -22,6 +22,8 @@
     <remote ident="2_squadron v1.1" file="2_squadron v1.1.zip" bytes="587355635" checksum="b9ced5350c33c09d">
       <url>https://github.com/virtualairforce/mod-repo/blob/main/repo/2_squadron%20v1.1.zip?raw=true/</url>
     </remote>
-    <remote ident="416 Squadron VAF" file="416 Squadron VAF.zip" bytes="123927295" checksum="8fad501fa5337623" />
+    <remote ident="416 Squadron VAF v3.0" file="416 Squadron VAF v3.0.zip" bytes="130196746" checksum="1b8938efcf0799e1">
+      <url>https://github.com/virtualairforce/mod-repo/blob/main/repo/416%20Squadron%20VAF%20v3.0.zip?raw=true/</url>
+    </remote>
   </remotes>
 </Open_Mod_Manager_Repository>
