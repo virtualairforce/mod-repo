@@ -4,7 +4,9 @@
   <title>vaf_repo</title>
   <downpath>files/</downpath>
   <remotes count="7">
-    <remote ident="2_squadron_v1.1" file="2_squadron_v1.1.zip" bytes="568560098" checksum="59f0564cc23d8abc" />
+   <remote ident="2_squadron_v1.1" file="2_squadron_v1.1.zip" bytes="568560098" checksum="59f0564cc23d8abc">
+      <url>https://www.dsotm.net/virtualairforce/2_squadron_v1.1.zip/</url>
+    </remote>
     <remote ident="3_squadron v1.5" file="3_squadron v1.5.zip" bytes="303444981" checksum="73503130661cbda2">
       <url>https://github.com/virtualairforce/mod-repo/blob/main/repo/416%20Squadron%20VAF%20v3.0.zip/</url>
     </remote>
