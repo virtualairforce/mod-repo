@@ -23,10 +23,10 @@
       <url>https://www.dsotm.net/virtualairforce/Community_A-4E-C_v2.0.1.zip</url>
     </remote>
     <remote ident="2_squadron_v1.2" file="2_squadron_v1.2.zip" bytes="653086938" checksum="7ba3c425d0c8e524">
-      <url>https://www.dsotm.net/virtualairforce/2_squadron_v1.2.zip/</url>
+      <url>https://www.dsotm.net/virtualairforce/2_squadron_v1.2.zip</url>
     </remote>
     <remote ident="142_squadron_v1.0" file="142_squadron_v1.0.zip" bytes="509455969" checksum="83f47b375502b083">
-      <url>https://www.dsotm.net/virtualairforce/142_squadron_v1.0.zip/</url>
+      <url>https://www.dsotm.net/virtualairforce/142_squadron_v1.0.zip</url>
     </remote>
   </remotes>
 </Open_Mod_Manager_Repository>
