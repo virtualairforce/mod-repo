@@ -3,7 +3,7 @@
   <uuid>c36ec8a7-baa8-46f7-a4fd-902cd593aa40</uuid>
   <title>vaf_repo</title>
   <downpath>files/</downpath>
-  <remotes count="10">
+  <remotes count="11">
     <remote ident="3_squadron v1.5" file="3_squadron v1.5.zip" bytes="303444981" checksum="73503130661cbda2">
       <url>https://www.dsotm.net/virtualairforce/3_squadron%20v1.5.zip</url>
     </remote>
@@ -16,14 +16,17 @@
     <remote ident="Community_A-4E-C_v2.0.1" file="Community_A-4E-C_v2.0.1.zip" bytes="1038955921" checksum="6550441e60a77f8c">
       <url>https://www.dsotm.net/virtualairforce/Community_A-4E-C_v2.0.1.zip</url>
     </remote>
-    <remote ident="2_squadron_v1.2" file="2_squadron_v1.2.zip" bytes="653086938" checksum="7ba3c425d0c8e524">
-      <url>https://www.dsotm.net/virtualairforce/2_squadron_v1.2.zip</url>
-    </remote>
     <remote ident="142_squadron_v1.0" file="142_squadron_v1.0.zip" bytes="509455969" checksum="83f47b375502b083">
       <url>https://www.dsotm.net/virtualairforce/142_squadron_v1.0.zip</url>
     </remote>
     <remote ident="6_squadron_v1.0" file="6_squadron_v1.0.zip" bytes="104092872" checksum="bcfde83c68409ed3">
       <url>https://www.dsotm.net/virtualairforce/6_squadron_v1.0.zip</url>
+    </remote>
+    <remote ident="2_squadron_v1.3" file="2_squadron_v1.3.zip" bytes="364627830" checksum="f220c04b4ba0db01">
+      <url>https://www.dsotm.net/virtualairforce/2_squadron_v1.3.zip</url>
+    </remote>
+    <remote ident="JF-17_Livery_v1.0" file="JF-17_Livery_v1.0.zip" bytes="370677788" checksum="f1e1eaddfec86915">
+      <url>https://www.dsotm.net/virtualairforce/JF-17_Livery_v1.0.zip</url>
     </remote>
   </remotes>
 </Open_Mod_Manager_Repository>
