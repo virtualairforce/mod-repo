@@ -22,11 +22,11 @@
     <remote ident="6_squadron_v1.0" file="6_squadron_v1.0.zip" bytes="104092872" checksum="bcfde83c68409ed3">
       <url>https://www.dsotm.net/virtualairforce/6_squadron_v1.0.zip</url>
     </remote>
-    <remote ident="2_squadron_v1.3" file="2_squadron_v1.3.zip" bytes="364627830" checksum="f220c04b4ba0db01">
-      <url>https://www.dsotm.net/virtualairforce/2_squadron_v1.3.zip</url>
-    </remote>
     <remote ident="JF-17_Livery_v1.0" file="JF-17_Livery_v1.0.zip" bytes="370677788" checksum="f1e1eaddfec86915">
       <url>https://www.dsotm.net/virtualairforce/JF-17_Livery_v1.0.zip</url>
+    </remote>
+    <remote ident="2_squadron_v1.4" file="2_squadron_v1.4.zip" bytes="372245467" checksum="f6dd3b4142005e64">
+      <url>https://www.dsotm.net/virtualairforce/2_squadron_v1.4.zip</url>
     </remote>
   </remotes>
 </Open_Mod_Manager_Repository>
