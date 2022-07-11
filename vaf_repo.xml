@@ -28,11 +28,11 @@
     <remote ident="142_Squadron_v1.1" file="142_Squadron_v1.1.zip" bytes="541627744" checksum="e905ae0cb077577e">
       <url>https://www.dsotm.net/virtualairforce/142_squadron_v1.1.zip</url>
     </remote>
-    <remote ident="416_Squadron_VAF_v4.1" file="416_Squadron_VAF_v4.1.zip" bytes="196452943" checksum="dc3e2da869e129c9">
-      <url>https://www.dsotm.net/virtualairforce/416_Squadron_VAF_v4.1.zip</url>
-    </remote>
     <remote ident="SAM_Asset_Pack_v1.9" file="SAM_Asset_Pack_v1.9.zip" bytes="499270438" checksum="25acf9b37b6558ae">
       <url>https://www.dsotm.net/virtualairforce/SAM_Asset_Pack_v1.9.zip</url>
+    </remote>
+    <remote ident="416_Squadron_VAF_v4.2" file="416_Squadron_VAF_v4.2.zip" bytes="196450290" checksum="51b09cd7d705b6b5">
+      <url>https://www.dsotm.net/virtualairforce/416_Squadron_VAF_v4.2.zip</url>
     </remote>
   </remotes>
 </Open_Mod_Manager_Repository>
