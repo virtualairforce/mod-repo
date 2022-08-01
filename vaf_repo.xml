@@ -22,9 +22,6 @@
     <remote ident="2_squadron_v1.4" file="2_squadron_v1.4.zip" bytes="372245467" checksum="f6dd3b4142005e64">
       <url>https://www.dsotm.net/virtualairforce/2_squadron_v1.4.zip</url>
     </remote>
-    <remote ident="VAF_F5_T1_v1" file="VAF_F5_T1_v1.zip" bytes="24458933" checksum="b4dfcdb59db749db">
-      <url>https://www.dsotm.net/virtualairforce/VAF_F5_T1_v1.zip</url>
-    </remote>
     <remote ident="142_Squadron_v1.1" file="142_Squadron_v1.1.zip" bytes="541627744" checksum="e905ae0cb077577e">
       <url>https://www.dsotm.net/virtualairforce/142_squadron_v1.1.zip</url>
     </remote>
@@ -33,6 +30,9 @@
     </remote>
     <remote ident="416_Squadron_VAF_v4.2" file="416_Squadron_VAF_v4.2.zip" bytes="196450290" checksum="51b09cd7d705b6b5">
       <url>https://www.dsotm.net/virtualairforce/416_Squadron_VAF_v4.2.zip</url>
+    </remote>
+    <remote ident="VAF_F5_T1_v1.1" file="VAF_F5_T1_v1.1.zip" bytes="24458992" checksum="2c776f36e3bef680">
+      <url>https://www.dsotm.net/virtualairforce/VAF_F5_T1_v1.1.zip</url>
     </remote>
   </remotes>
 </Open_Mod_Manager_Repository>
