@@ -3,7 +3,7 @@
   <uuid>c36ec8a7-baa8-46f7-a4fd-902cd593aa40</uuid>
   <title>vaf_repo</title>
   <downpath>files/</downpath>
-  <remotes count="13">
+  <remotes count="15">
     <remote ident="3_squadron v1.5" file="3_squadron v1.5.zip" bytes="303444981" checksum="73503130661cbda2">
       <url>https://www.dsotm.net/virtualairforce/3_squadron%20v1.5.zip</url>
     </remote>
@@ -33,6 +33,12 @@
     </remote>
     <remote ident="VAF_F5_T1_v1.1" file="VAF_F5_T1_v1.1.zip" bytes="24458992" checksum="2c776f36e3bef680">
       <url>https://www.dsotm.net/virtualairforce/VAF_F5_T1_v1.1.zip</url>
+    </remote>
+    <remote ident="UH-60L" file="UH-60L.zip" bytes="1148696685" checksum="c7dc5862f16c2022">
+      <url>https://www.dsotm.net/virtualairforce/UH-60L.zip</url>
+    </remote>
+    <remote ident="C-130_Hercules" file="C-130_Hercules.zip" bytes="369050173" checksum="1f70d0ec27f6faf7">
+      <url>https://www.dsotm.net/virtualairforce/C-130_Hercules.zip</url>
     </remote>
   </remotes>
 </Open_Mod_Manager_Repository>
