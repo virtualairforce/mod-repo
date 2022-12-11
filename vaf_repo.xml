@@ -1,47 +1,50 @@
 <?xml version="1.0"?>
 <Open_Mod_Manager_Repository>
-  <uuid>c36ec8a7-baa8-46f7-a4fd-902cd593aa40</uuid>
+  <uuid>3cd2737a-b052-42fa-916a-40869c722797</uuid>
   <title>vaf_repo</title>
-  <downpath>files/</downpath>
-  <remotes count="16">
-    <remote ident="3_squadron v1.5" file="3_squadron v1.5.zip" bytes="303444981" checksum="73503130661cbda2">
-      <url>https://www.dsotm.net/virtualairforce/3_squadron%20v1.5.zip</url>
+  <downpath>vaf/</downpath>
+  <remotes count="14">
+    <remote ident="6_squadron_v1.0" file="6_squadron_v1.0.zip" bytes="104092892" xxhsum="a160fe5a28c687d1" category="SKIN">
+      <url>https://www.dsotm.net/DCS/liveries/VAF/6_squadron_v1.0.zip</url>
     </remote>
-    <remote ident="476_vFG_-_Air_Weapons_Range_Objects_14NOV19_v1.1" file="476_vFG_-_Air_Weapons_Range_Objects_14NOV19_v1.1.zip" bytes="45194715" checksum="92f8570fcb996658">
-      <url>https://www.dsotm.net/virtualairforce/476_vFG_-_Air_Weapons_Range_Objects_14NOV19_v1.1.zip</url>
+    <remote ident="69th_TFS_v1.0" file="69th_TFS_v1.0.zip" bytes="829345060" xxhsum="2089fb8975fd65a2" category="SKIN">
+      <url>https://www.dsotm.net/DCS/liveries/VAF/69th_TFS_v1.0.zip</url>
     </remote>
-    <remote ident="6_squadron_v1.0" file="6_squadron_v1.0.zip" bytes="104092872" checksum="bcfde83c68409ed3">
-      <url>https://www.dsotm.net/virtualairforce/6_squadron_v1.0.zip</url>
+    <remote ident="142_Squadron_v1.1" file="142_Squadron_v1.1.zip" bytes="541627763" xxhsum="669b63d4fe818aab" category="SKIN">
+      <url>https://www.dsotm.net/DCS/liveries/VAF/142_Squadron_v1.1.zip</url>
     </remote>
-    <remote ident="JF-17_Livery_v1.0" file="JF-17_Livery_v1.0.zip" bytes="370677788" checksum="f1e1eaddfec86915">
-      <url>https://www.dsotm.net/virtualairforce/JF-17_Livery_v1.0.zip</url>
+    <remote ident="416_Squadron_VAF_v4.2" file="416_Squadron_VAF_v4.2.zip" bytes="196450308" xxhsum="ec5eec5427d90e4e" category="SKIN">
+      <url>https://www.dsotm.net/DCS/liveries/VAF/416_Squadron_VAF_v4.2.zip</url>
     </remote>
-    <remote ident="2_squadron_v1.4" file="2_squadron_v1.4.zip" bytes="372245467" checksum="f6dd3b4142005e64">
-      <url>https://www.dsotm.net/virtualairforce/2_squadron_v1.4.zip</url>
+    <remote ident="JF-17_Livery_v1.0" file="JF-17_Livery_v1.0.zip" bytes="370677806" xxhsum="e3cf89cf2698a9af" category="SKIN">
+      <url>https://www.dsotm.net/DCS/liveries/VAF/JF-17_Livery_v1.0.zip</url>
     </remote>
-    <remote ident="142_Squadron_v1.1" file="142_Squadron_v1.1.zip" bytes="541627744" checksum="e905ae0cb077577e">
-      <url>https://www.dsotm.net/virtualairforce/142_squadron_v1.1.zip</url>
+    <remote ident="476_vFG_A-10C_Threat_Sounds_SG_v1.0" file="476_vFG_A-10C_Threat_Sounds_SG_v1.0.zip" bytes="1339793" xxhsum="a70b3de61edfb88f" category="GENERIC">
+      <url>https://www.dsotm.net/DCS/mods/476_vFG_A-10C_Threat_Sounds_SG_v1.0.zip</url>
     </remote>
-    <remote ident="SAM_Asset_Pack_v1.9" file="SAM_Asset_Pack_v1.9.zip" bytes="499270438" checksum="25acf9b37b6558ae">
-      <url>https://www.dsotm.net/virtualairforce/SAM_Asset_Pack_v1.9.zip</url>
+    <remote ident="476_vFG_Air_Weapons_Range_Objects_v1.1" file="476_vFG_Air_Weapons_Range_Objects_v1.1.zip" bytes="45276946" xxhsum="5db84182d322b12d" category="GENERIC">
+      <url>https://www.dsotm.net/DCS/mods/476_vFG_Air_Weapons_Range_Objects_v1.1.zip</url>
     </remote>
-    <remote ident="416_Squadron_VAF_v4.2" file="416_Squadron_VAF_v4.2.zip" bytes="196450290" checksum="51b09cd7d705b6b5">
-      <url>https://www.dsotm.net/virtualairforce/416_Squadron_VAF_v4.2.zip</url>
+    <remote ident="C-130_Hercules_v1.0" file="C-130_Hercules_v1.0.zip" bytes="369057672" xxhsum="c349dd9e4a935e7b" category="MODEL">
+      <url>https://www.dsotm.net/DCS/mods/C-130_Hercules_v1.0.zip</url>
     </remote>
-    <remote ident="VAF_F5_T1_v1.1" file="VAF_F5_T1_v1.1.zip" bytes="24458992" checksum="2c776f36e3bef680">
-      <url>https://www.dsotm.net/virtualairforce/VAF_F5_T1_v1.1.zip</url>
+    <remote ident="SAM_Asset_Pack_v1.9" file="SAM_Asset_Pack_v1.9.zip" bytes="499270461" xxhsum="e0525c5d2ff8c362" category="GENERIC">
+      <url>https://www.dsotm.net/DCS/mods/SAM_Asset_Pack_v1.9.zip</url>
     </remote>
-    <remote ident="UH-60L" file="UH-60L.zip" bytes="1148696685" checksum="c7dc5862f16c2022">
-      <url>https://www.dsotm.net/virtualairforce/UH-60L.zip</url>
+    <remote ident="UH-60L_v1.0.3" file="UH-60L_v1.0.3.zip" bytes="1330631389" xxhsum="fd10c0cb469a0e7d" category="MODEL">
+      <url>https://www.dsotm.net/DCS/mods/UH-60L_v1.0.3.zip</url>
     </remote>
-    <remote ident="C-130_Hercules" file="C-130_Hercules.zip" bytes="369050173" checksum="1f70d0ec27f6faf7">
-      <url>https://www.dsotm.net/virtualairforce/C-130_Hercules.zip</url>
+    <remote ident="2_squadron_v1.4" file="2_squadron_v1.4.zip" bytes="372245486" xxhsum="6c0f038bf43e2bee" category="SKIN">
+      <url>https://www.dsotm.net/DCS/liveries/VAF/2_squadron_v1.4.zip</url>
     </remote>
-    <remote ident="69th_TFS_v1.0" file="69th_TFS_v1.0.zip" bytes="829345040" checksum="d38e536b3b7c5a56">
-      <url>https://www.dsotm.net/virtualairforce/69th_TFS_v1.0.zip</url>
+    <remote ident="3_squadron_v1.5" file="3_squadron_v1.5.zip" bytes="298276469" xxhsum="f8bb8113939c6aa3" category="SKIN">
+      <url>https://www.dsotm.net/DCS/liveries/VAF/3_squadron_v1.5.zip</url>
     </remote>
-    <remote ident="Community_A-4E-C_v2.1" file="Community_A-4E-C_v2.1.zip" bytes="1083285838" checksum="ba146dd2f8d13e33">
-      <url>https://www.dsotm.net/virtualairforce/Community_A-4E-C_v2.1.zip</url>
+    <remote ident="VAF_F5_T1_v1.1" file="VAF_F5_T1_v1.1.zip" bytes="24459011" xxhsum="0c645ea41fc5cdce" category="SKIN">
+      <url>https://www.dsotm.net/DCS/liveries/VAF/VAF_F5_T1_v1.1.zip</url>
+    </remote>
+    <remote ident="Community_A-4E-C_v2.1" file="Community_A-4E-C_v2.1.zip" bytes="1083285154" xxhsum="92034aeb203833ca" category="MODEL">
+      <url>https://www.dsotm.net/DCS/liveries/VAF/Community_A-4E-C_v2.1.zip</url>
     </remote>
   </remotes>
 </Open_Mod_Manager_Repository>
