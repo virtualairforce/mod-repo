@@ -31,9 +31,6 @@
     <remote ident="UH-60L_v1.0.3" file="UH-60L_v1.0.3.zip" bytes="1330631389" xxhsum="fd10c0cb469a0e7d" category="MODEL">
       <url>https://www.dsotm.net/DCS/mods/UH-60L_v1.0.3.zip</url>
     </remote>
-    <remote ident="2_squadron_v1.4" file="2_squadron_v1.4.zip" bytes="372245486" xxhsum="6c0f038bf43e2bee" category="SKIN">
-      <url>https://www.dsotm.net/DCS/liveries/VAF/2_squadron_v1.4.zip</url>
-    </remote>
     <remote ident="3_squadron_v1.5" file="3_squadron_v1.5.zip" bytes="298276469" xxhsum="f8bb8113939c6aa3" category="SKIN">
       <url>https://www.dsotm.net/DCS/liveries/VAF/3_squadron_v1.5.zip</url>
     </remote>
@@ -45,6 +42,9 @@
     </remote>
     <remote ident="476_vFG_Air_Weapons_Range_Objects_v1.2" file="476_vFG_Air_Weapons_Range_Objects_v1.2.zip" bytes="45276559" xxhsum="afe3485331525aec" category="PLUGIN">
       <url>https://www.dsotm.net/DCS/mods/476_vFG_Air_Weapons_Range_Objects_v1.2.zip</url>
+    </remote>
+    <remote ident="2_squadron_v2.0" file="2_squadron_v2.0.zip" bytes="287774009" xxhsum="c78eb7464dfbd866" category="SKIN">
+      <url>https://www.dsotm.net/DCS/liveries/VAF/2_squadron_v2.0.zip</url>
     </remote>
   </remotes>
 </Open_Mod_Manager_Repository>
