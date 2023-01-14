@@ -7,9 +7,6 @@
     <remote ident="6_squadron_v1.0" file="6_squadron_v1.0.zip" bytes="104092892" xxhsum="a160fe5a28c687d1" category="SKIN">
       <url>https://www.dsotm.net/DCS/liveries/VAF/6_squadron_v1.0.zip</url>
     </remote>
-    <remote ident="69th_TFS_v1.0" file="69th_TFS_v1.0.zip" bytes="829345060" xxhsum="2089fb8975fd65a2" category="SKIN">
-      <url>https://www.dsotm.net/DCS/liveries/VAF/69th_TFS_v1.0.zip</url>
-    </remote>
     <remote ident="142_Squadron_v1.1" file="142_Squadron_v1.1.zip" bytes="541627763" xxhsum="669b63d4fe818aab" category="SKIN">
       <url>https://www.dsotm.net/DCS/liveries/VAF/142_Squadron_v1.1.zip</url>
     </remote>
@@ -45,6 +42,9 @@
     </remote>
     <remote ident="2_squadron_v2.0" file="2_squadron_v2.0.zip" bytes="287774009" xxhsum="c78eb7464dfbd866" category="SKIN">
       <url>https://www.dsotm.net/DCS/liveries/VAF/2_squadron_v2.0.zip</url>
+    </remote>
+    <remote ident="69th_TFS_v1.1" file="69th_TFS_v1.1.zip" bytes="829345054" xxhsum="9f1708cd584695f8" category="SKIN">
+      <url>https://www.dsotm.net/DCS/liveries/VAF/69th_TFS_v1.1.zip</url>
     </remote>
   </remotes>
 </Open_Mod_Manager_Repository>
