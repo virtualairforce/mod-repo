@@ -10,9 +10,6 @@
     <remote ident="142_Squadron_v1.1" file="142_Squadron_v1.1.zip" bytes="541627763" xxhsum="669b63d4fe818aab" category="SKIN">
       <url>https://www.dsotm.net/DCS/liveries/VAF/142_Squadron_v1.1.zip</url>
     </remote>
-    <remote ident="416_Squadron_VAF_v4.2" file="416_Squadron_VAF_v4.2.zip" bytes="196450308" xxhsum="ec5eec5427d90e4e" category="SKIN">
-      <url>https://www.dsotm.net/DCS/liveries/VAF/416_Squadron_VAF_v4.2.zip</url>
-    </remote>
     <remote ident="JF-17_Livery_v1.0" file="JF-17_Livery_v1.0.zip" bytes="370677806" xxhsum="e3cf89cf2698a9af" category="SKIN">
       <url>https://www.dsotm.net/DCS/liveries/VAF/JF-17_Livery_v1.0.zip</url>
     </remote>
@@ -45,6 +42,9 @@
     </remote>
     <remote ident="69th_TFS_v1.1" file="69th_TFS_v1.1.zip" bytes="829345054" xxhsum="9f1708cd584695f8" category="SKIN">
       <url>https://www.dsotm.net/DCS/liveries/VAF/69th_TFS_v1.1.zip</url>
+    </remote>
+    <remote ident="416_Squadron_VAF_v5.0" file="416_Squadron_VAF_v5.0.zip" bytes="1017115416" xxhsum="ba3eff713f3a8608" category="SKIN">
+      <url>https://www.dsotm.net/DCS/liveries/VAF/416_Squadron_VAF_v5.0.zip</url>
     </remote>
   </remotes>
 </Open_Mod_Manager_Repository>
