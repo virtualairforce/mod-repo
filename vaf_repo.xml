@@ -3,7 +3,7 @@
   <uuid>3cd2737a-b052-42fa-916a-40869c722797</uuid>
   <title>vaf_repo</title>
   <downpath>vaf/</downpath>
-  <remotes count="14">
+  <remotes count="15">
     <remote ident="6_squadron_v1.0" file="6_squadron_v1.0.zip" bytes="104092892" xxhsum="a160fe5a28c687d1" category="SKIN">
       <url>https://www.dsotm.net/DCS/liveries/VAF/6_squadron_v1.0.zip</url>
     </remote>
@@ -45,6 +45,9 @@
     </remote>
     <remote ident="2_squadron_v2.1" file="2_squadron_v2.1.zip" bytes="329519645" xxhsum="a86e4fc90575f84c" category="SKIN">
       <url>https://www.dsotm.net/DCS/liveries/VAF/2_squadron_v2.1.zip</url>
+    </remote>
+    <remote ident="4_Reg_Army_Air_Corps_VAF" file="4_Reg_Army_Air_Corps_VAF.zip" bytes="1804499174" xxhsum="ddb2cfb03c0bf40f" category="SKIN">
+      <url>https://www.dsotm.net/DCS/liveries/VAF/4_Reg_Army_Air_Corps_VAF.zip</url>
     </remote>
   </remotes>
 </Open_Mod_Manager_Repository>
