@@ -3,7 +3,7 @@
   <uuid>3cd2737a-b052-42fa-916a-40869c722797</uuid>
   <title>vaf_repo</title>
   <downpath>vaf/</downpath>
-  <remotes count="15">
+  <remotes count="18">
     <remote ident="6_squadron_v1.0" file="6_squadron_v1.0.zip" bytes="104092892" xxhsum="a160fe5a28c687d1" category="SKIN">
       <url>https://www.dsotm.net/DCS/liveries/VAF/6_squadron_v1.0.zip</url>
     </remote>
@@ -21,9 +21,6 @@
     </remote>
     <remote ident="SAM_Asset_Pack_v1.9" file="SAM_Asset_Pack_v1.9.zip" bytes="499270461" xxhsum="e0525c5d2ff8c362" category="GENERIC">
       <url>https://www.dsotm.net/DCS/mods/SAM_Asset_Pack_v1.9.zip</url>
-    </remote>
-    <remote ident="UH-60L_v1.0.3" file="UH-60L_v1.0.3.zip" bytes="1330631389" xxhsum="fd10c0cb469a0e7d" category="MODEL">
-      <url>https://www.dsotm.net/DCS/mods/UH-60L_v1.0.3.zip</url>
     </remote>
     <remote ident="3_squadron_v1.5" file="3_squadron_v1.5.zip" bytes="298276469" xxhsum="f8bb8113939c6aa3" category="SKIN">
       <url>https://www.dsotm.net/DCS/liveries/VAF/3_squadron_v1.5.zip</url>
@@ -48,6 +45,18 @@
     </remote>
     <remote ident="4_Reg_Army_Air_Corps_VAF" file="4_Reg_Army_Air_Corps_VAF.zip" bytes="1804499174" xxhsum="ddb2cfb03c0bf40f" category="SKIN">
       <url>https://www.dsotm.net/DCS/liveries/VAF/4_Reg_Army_Air_Corps_VAF.zip</url>
+    </remote>
+    <remote ident="VSN_F22_v1.0" file="VSN_F22_v1.0.zip" bytes="107053072" xxhsum="63328dfa143708a6" category="MODEL">
+      <url>https://www.dsotm.net/DCS/mods/VSN_F22_v1.0.zip</url>
+    </remote>
+    <remote ident="USAF_Thunderbirds_v1.0" file="USAF_Thunderbirds_v1.0.zip" bytes="28827867" xxhsum="98a8bb6241db8b36" category="SKIN">
+      <url>https://www.dsotm.net/DCS/liveries/VAF/USAF_Thunderbirds_v1.0.zip</url>
+    </remote>
+    <remote ident="L-39C_870_Squadron_v1.0" file="L-39C_870_Squadron_v1.0.zip" bytes="10813959" xxhsum="99aba824a4f11621" category="SKIN">
+      <url>https://www.dsotm.net/DCS/liveries/VAF/L-39C_870_Squadron_v1.0.zip</url>
+    </remote>
+    <remote ident="UH-60L_v1.3.1" file="UH-60L_v1.3.1.zip" bytes="1380510458" xxhsum="" category="MODEL">
+      <url>https://www.dsotm.net/DCS/mods/UH-60L_v1.3.1.zip</url>
     </remote>
   </remotes>
 </Open_Mod_Manager_Repository>
