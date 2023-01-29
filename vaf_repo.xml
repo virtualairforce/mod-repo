@@ -55,7 +55,7 @@
     <remote ident="L-39C_870_Squadron_v1.0" file="L-39C_870_Squadron_v1.0.zip" bytes="10813959" xxhsum="99aba824a4f11621" category="SKIN">
       <url>https://www.dsotm.net/DCS/liveries/VAF/L-39C_870_Squadron_v1.0.zip</url>
     </remote>
-    <remote ident="UH-60L_v1.3.1" file="UH-60L_v1.3.1.zip" bytes="1380510458" xxhsum="" category="MODEL">
+    <remote ident="UH-60L_v1.3.1" file="UH-60L_v1.3.1.zip" bytes="1380510458" xxhsum="5fa6e426c170081e" category="MODEL">
       <url>https://www.dsotm.net/DCS/mods/UH-60L_v1.3.1.zip</url>
     </remote>
   </remotes>
