@@ -55,7 +55,7 @@
     <remote ident="UH-60L_v1.3.1" file="UH-60L_v1.3.1.zip" bytes="1380510458" xxhsum="5fa6e426c170081e" category="MODEL">
       <url>https://www.dsotm.net/DCS/mods/UH-60L_v1.3.1.zip</url>
     </remote>
-    <remote ident="416_Squadron_v5.1" file="416_Squadron_v5.1.zip" bytes="1193646342" xxhsum="c603f30d5c3c6044" category="SKIN">
+    <remote ident="416_Squadron_v5.1" file="416_Squadron_v5.1.zip" bytes="1193646342" xxhsum="909c7c9886017eaf" category="SKIN">
       <url>https://www.dsotm.net/DCS/liveries/VAF/416_Squadron_VAF_v5.1.zip</url>
     </remote>
   </remotes>
