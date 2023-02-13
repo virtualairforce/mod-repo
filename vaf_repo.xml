@@ -34,9 +34,6 @@
     <remote ident="476_vFG_Air_Weapons_Range_Objects_v1.2" file="476_vFG_Air_Weapons_Range_Objects_v1.2.zip" bytes="45276559" xxhsum="afe3485331525aec" category="PLUGIN">
       <url>https://www.dsotm.net/DCS/mods/476_vFG_Air_Weapons_Range_Objects_v1.2.zip</url>
     </remote>
-    <remote ident="69th_TFS_v1.1" file="69th_TFS_v1.1.zip" bytes="829345054" xxhsum="9f1708cd584695f8" category="SKIN">
-      <url>https://www.dsotm.net/DCS/liveries/VAF/69th_TFS_v1.1.zip</url>
-    </remote>
     <remote ident="VSN_F22_v1.0" file="VSN_F22_v1.0.zip" bytes="107053072" xxhsum="63328dfa143708a6" category="MODEL">
       <url>https://www.dsotm.net/DCS/mods/VSN_F22_v1.0.zip</url>
     </remote>
@@ -57,6 +54,9 @@
     </remote>
     <remote ident="2_squadron_v2.2" file="2_squadron_v2.2.zip" bytes="344826563" xxhsum="6acbbf5d70512639" category="SKIN">
       <url>https://www.dsotm.net/DCS/liveries/VAF/2_squadron_v2.2.zip</url>
+    </remote>
+    <remote ident="69th_TFS_v1.2" file="69th_TFS_v1.2.zip" bytes="1006872587" xxhsum="d8e3c0e27c15e3b1" category="SKIN">
+      <url>https://www.dsotm.net/DCS/liveries/VAF/69th_TFS_v1.2.zip</url>
     </remote>
   </remotes>
 </Open_Mod_Manager_Repository>
