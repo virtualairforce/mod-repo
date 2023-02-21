@@ -58,5 +58,8 @@
     <remote ident="69th_TFS_v1.2" file="69th_TFS_v1.2.zip" bytes="1006872587" xxhsum="d8e3c0e27c15e3b1" category="SKIN">
       <url>https://www.dsotm.net/DCS/liveries/VAF/69th_TFS_v1.2.zip</url>
     </remote>
+    <remote ident="VNAO_T_45_v1.0" file="VNAO_T_45_v1.0.zip" bytes="829093122" xxhsum="043d9edd7280776b" category="MODEL">
+      <url>https://www.dsotm.net/DCS/mods/VNAO_T_45_v1.0.zip</url>
+    </remote>
   </remotes>
 </Open_Mod_Manager_Repository>
