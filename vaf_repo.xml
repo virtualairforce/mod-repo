@@ -49,9 +49,6 @@
     <remote ident="416_Squadron_v5.1" file="416_Squadron_v5.1.zip" bytes="1193646342" xxhsum="909c7c9886017eaf" category="SKIN">
       <url>https://www.dsotm.net/DCS/liveries/VAF/416_Squadron_v5.1.zip</url>
     </remote>
-    <remote ident="4_Reg_Army_Air_Corps_VAF_v1.1" file="4_Reg_Army_Air_Corps_VAF_v1.1.zip" bytes="1804501703" xxhsum="43996adc57cdbfbc" category="SKIN">
-      <url>https://www.dsotm.net/DCS/liveries/VAF/4_Reg_Army_Air_Corps_VAF_v1.1.zip</url>
-    </remote>
     <remote ident="2_squadron_v2.2" file="2_squadron_v2.2.zip" bytes="344826563" xxhsum="6acbbf5d70512639" category="SKIN">
       <url>https://www.dsotm.net/DCS/liveries/VAF/2_squadron_v2.2.zip</url>
     </remote>
@@ -60,6 +57,9 @@
     </remote>
     <remote ident="VNAO_T_45_v1.0" file="VNAO_T_45_v1.0.zip" bytes="829093122" xxhsum="043d9edd7280776b" category="MODEL">
       <url>https://www.dsotm.net/DCS/mods/VNAO_T_45_v1.0.zip</url>
+    </remote>
+    <remote ident="4_Reg_Army_Air_Corps_VAF_v1.2" file="4_Reg_Army_Air_Corps_VAF_v1.2.zip" bytes="585282967" xxhsum="88a601c589476165" category="SKIN">
+      <url>https://www.dsotm.net/DCS/mods/4_Reg_Army_Air_Corps_VAF_v1.2.zip</url>
     </remote>
   </remotes>
 </Open_Mod_Manager_Repository>
