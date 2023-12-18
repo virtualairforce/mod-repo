@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <Open_Mod_Manager_Repository>
-  <uuid>a662b251-5198-4d41-bb60-ce3f5e488df9</uuid>
-  <title>VAF Mods Repo</title>
-  <downpath>files/</downpath>
+  <uuid>33d67f3d-0c9f-49b1-be3e-2153fe322f81</uuid>
+  <title>VAF</title>
+  <downpath></downpath>
   <references count="0">
     <mod ident="2_Squadron_v2.2" file="2_Squadron_v2.2.ozp" bytes="235559663" xxhsum="6dd3a44672439501" category="Texture">
       <description bytes="20">data:application/octet-stream;base64,eNozUgguLE1MKcrPU/DJLEstykwtZgAASKEHAw==</description>
@@ -31,6 +31,10 @@
       <description bytes="38">data:application/octet-stream;base64,eNpzMzRR8MksSy3KTC1WSMsvUjA0MVJIzEtRMDJVCC4sTUwpys8rZgAA5FcL5w==</description>
       <url>https://storage.cloud.google.com/new_vaf_mods/F14_Liveries_v1.1.ozp</url>
     </mod>
+    <mod ident="JF-17_Livery_v1.0" file="JF-17_Livery_v1.0.ozp" bytes="353875713" xxhsum="f123b06f5682c6c3" category="Texture">
+      <description bytes="19">data:application/octet-stream;base64,eNoLc3RT8HLTNTRX8MksSy3KTC1mAAAziAWG</description>
+      <url>https://storage.cloud.google.com/new_vaf_mods/JF-17_Livery_v1.0.ozp</url>
+    </mod>
     <mod ident="M2000C_Liveries_v1.0" file="M2000C_Liveries_v1.0.ozp" bytes="47068581" xxhsum="6d0d2531245071fe" category="Texture">
       <description bytes="16">data:application/octet-stream;base64,eNrzNTIwMHBW8MksSy3KTC1mAAAkvgS2</description>
       <url>https://storage.cloud.google.com/new_vaf_mods/M2000C_Liveries_v1.0.ozp</url>
@@ -38,10 +42,6 @@
     <mod ident="T-45_Liveries_v1.0" file="T-45_Liveries_v1.0.ozp" bytes="11318604" xxhsum="29c63b57d07930e1" category="Texture">
       <description bytes="18">data:application/octet-stream;base64,eNoLc3RTCNE1MVXwySxLLcpMLWYAAC8GBUs=</description>
       <url>https://storage.cloud.google.com/new_vaf_mods/T-45_Liveries_v1.0.ozp</url>
-    </mod>
-    <mod ident="JF-17_Livery_v1.0" file="JF-17_Livery_v1.0.ozp" bytes="353875713" xxhsum="f123b06f5682c6c3" category="Texture">
-      <description bytes="19">data:application/octet-stream;base64,eNoLc3RT8HLTNTRX8MksSy3KTC1mAAAziAWG</description>
-      <url>https://storage.cloud.google.com/new_vaf_mods/JF-17_Livery_v1.0.ozp</url>
     </mod>
   </references>
 </Open_Mod_Manager_Repository>
