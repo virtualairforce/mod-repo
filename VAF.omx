@@ -6,42 +6,42 @@
   <references count="0">
     <mod ident="2_Squadron_v2.2" file="2_Squadron_v2.2.ozp" bytes="235559663" xxhsum="6dd3a44672439501" category="Texture">
       <description bytes="20">data:application/octet-stream;base64,eNozUgguLE1MKcrPU/DJLEstykwtZgAASKEHAw==</description>
-      <url>https://drive.google.com/file/d/1Qq5-GgpY8qv2XIzi-wIx3PqLk5JleVbI/view?usp=drive_link&amp;confirm=t</url>
+      <url>https://storage.cloud.google.com/new_vaf_mods/2_Squadron_v2.2.ozp</url>
     </mod>
     <mod ident="3_Squadron_v1.5" file="3_Squadron_v1.5.ozp" bytes="86455380" xxhsum="90851c15a5887955" category="Texture">
       <description bytes="24">data:application/octet-stream;base64,eNozVgguLE1MKcrPU/DJLEstykwtVjDUM2UAAGcdB7g=</description>
-      <url>https://drive.google.com/file/d/12TRHEb0rjIT1Zl5AFbdkPv8hSF25lPHL/view?usp=drive_link&amp;confirm=t</url>
+      <url>https://storage.cloud.google.com/new_vaf_mods/3_Squadron_v1.5.ozp</url>
     </mod>
     <mod ident="4AAC_v1.1" file="4AAC_v1.1.ozp" bytes="142666272" xxhsum="ecd21f60be7c63fb" category="Texture">
       <description bytes="14">data:application/octet-stream;base64,eNozcXR0VvDJLEstykwtZgAAHt8EXQ==</description>
-      <url>https://drive.google.com/file/d/1ve0IiV5nCUYl_OmFuA3w3H2YKckiU8X-/view?usp=drive_link&amp;confirm=t</url>
+      <url>https://storage.cloud.google.com/new_vaf_mods/4AAC_v1.1.ozp</url>
     </mod>
     <mod ident="25_Squadron_v1.0" file="25_Squadron_v1.0.ozp" bytes="12757196" xxhsum="6829b2b1627c0762" category="Texture">
       <description bytes="21">data:application/octet-stream;base64,eNozMlUILixNTCnKz1PwySxLLcpMLWYAAEz4Bzg=</description>
-      <url>https://drive.google.com/file/d/1ozZFYmFLDgEXvvTDF7ZVHQ_5CjBAutB-/view?usp=drive_link&amp;confirm=t</url>
+      <url>https://storage.cloud.google.com/new_vaf_mods/25_Squadron_v1.0.ozp</url>
     </mod>
     <mod ident="476RangeTargets" file="476RangeTargets.zip" bytes="46251611" xxhsum="17fd97171bbfe90b" category="">
-      <url>https://drive.google.com/file/d/1TrzvV7hm2mMsNQvSvWgb3GVqRab8Eag1/view?usp=drive_link&amp;confirm=t</url>
+      <url>https://storage.cloud.google.com/new_vaf_mods/476RangeTargets.zip</url>
     </mod>
     <mod ident="617_Squadron_v1.1" file="617_Squadron_v1.1.ozp" bytes="254433693" xxhsum="1b918e5a9a4a4cbd" category="Texture">
       <description bytes="22">data:application/octet-stream;base64,eNozMzRXCC4sTUwpys9T8MksSy3KTC1mAABRsAdv</description>
-      <url>https://drive.google.com/file/d/13Y4XjT4CzEMjc2lU3vK9CkGhpNgar3uk/view?usp=drive_link&amp;confirm=t</url>
+      <url>https://storage.cloud.google.com/new_vaf_mods/617_Squadron_v1.1.ozp</url>
     </mod>
     <mod ident="F14_Liveries_v1.1" file="F14_Liveries_v1.1.ozp" bytes="307040455" xxhsum="0321d6e4f7549f64" category="Texture">
       <description bytes="38">data:application/octet-stream;base64,eNpzMzRR8MksSy3KTC1WSMsvUjA0MVJIzEtRMDJVCC4sTUwpys8rZgAA5FcL5w==</description>
-      <url>https://drive.google.com/file/d/1lVWZGLfK0IVoFNJQCTN-E2mztX-VX-0a/view?usp=drive_link&amp;confirm=t</url>
+      <url>https://storage.cloud.google.com/new_vaf_mods/F14_Liveries_v1.1.ozp</url>
     </mod>
     <mod ident="M2000C_Liveries_v1.0" file="M2000C_Liveries_v1.0.ozp" bytes="47068581" xxhsum="6d0d2531245071fe" category="Texture">
       <description bytes="16">data:application/octet-stream;base64,eNrzNTIwMHBW8MksSy3KTC1mAAAkvgS2</description>
-      <url>https://drive.google.com/file/d/1RN2xV_MtkEAM4kXU-xYXYvaxaty_5h40/view?usp=drive_link&amp;confirm=t</url>
+      <url>https://storage.cloud.google.com/new_vaf_mods/M2000C_Liveries_v1.0.ozp</url>
     </mod>
     <mod ident="T-45_Liveries_v1.0" file="T-45_Liveries_v1.0.ozp" bytes="11318604" xxhsum="29c63b57d07930e1" category="Texture">
       <description bytes="18">data:application/octet-stream;base64,eNoLc3RTCNE1MVXwySxLLcpMLWYAAC8GBUs=</description>
-      <url>https://drive.google.com/file/d/1leM4BjuGtldsQVIujXjCNLfB-lkuQPHJ/view?usp=drive_link&amp;confirm=t</url>
+      <url>https://storage.cloud.google.com/new_vaf_mods/T-45_Liveries_v1.0.ozp</url>
     </mod>
     <mod ident="JF-17_Livery_v1.0" file="JF-17_Livery_v1.0.ozp" bytes="353875713" xxhsum="f123b06f5682c6c3" category="Texture">
       <description bytes="19">data:application/octet-stream;base64,eNoLc3RT8HLTNTRX8MksSy3KTC1mAAAziAWG</description>
-      <url>https://drive.google.com/file/d/1x3PoZJhFc-C8b4leSXfndCg7t3ufjU31/view?usp=sharing&amp;confirm=t</url>
+      <url>https://storage.cloud.google.com/new_vaf_mods/JF-17_Livery_v1.0.ozp</url>
     </mod>
   </references>
 </Open_Mod_Manager_Repository>
