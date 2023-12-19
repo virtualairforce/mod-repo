@@ -1,47 +1,47 @@
 <?xml version="1.0"?>
 <Open_Mod_Manager_Repository>
-  <uuid>33d67f3d-0c9f-49b1-be3e-2153fe322f81</uuid>
+  <uuid>a0d223e3-90d1-4560-aa7c-326045b4e40a</uuid>
   <title>VAF</title>
-  <downpath></downpath>
+  <downpath />
   <references count="0">
     <mod ident="2_Squadron_v2.2" file="2_Squadron_v2.2.ozp" bytes="235559663" xxhsum="6dd3a44672439501" category="Texture">
       <description bytes="20">data:application/octet-stream;base64,eNozUgguLE1MKcrPU/DJLEstykwtZgAASKEHAw==</description>
-      <url>https://storage.cloud.google.com/new_vaf_mods/2_Squadron_v2.2.ozp</url>
+      <url>https://storage.googleapis.com/new_vaf_mods/2_Squadron_v2.2.ozp</url>
     </mod>
     <mod ident="3_Squadron_v1.5" file="3_Squadron_v1.5.ozp" bytes="86455380" xxhsum="90851c15a5887955" category="Texture">
       <description bytes="24">data:application/octet-stream;base64,eNozVgguLE1MKcrPU/DJLEstykwtVjDUM2UAAGcdB7g=</description>
-      <url>https://storage.cloud.google.com/new_vaf_mods/3_Squadron_v1.5.ozp</url>
+      <url>https://storage.googleapis.com/new_vaf_mods/3_Squadron_v1.5.ozp</url>
     </mod>
     <mod ident="4AAC_v1.1" file="4AAC_v1.1.ozp" bytes="142666272" xxhsum="ecd21f60be7c63fb" category="Texture">
       <description bytes="14">data:application/octet-stream;base64,eNozcXR0VvDJLEstykwtZgAAHt8EXQ==</description>
-      <url>https://storage.cloud.google.com/new_vaf_mods/4AAC_v1.1.ozp</url>
+      <url>https://storage.googleapis.com/new_vaf_mods/4AAC_v1.1.ozp</url>
     </mod>
     <mod ident="25_Squadron_v1.0" file="25_Squadron_v1.0.ozp" bytes="12757196" xxhsum="6829b2b1627c0762" category="Texture">
       <description bytes="21">data:application/octet-stream;base64,eNozMlUILixNTCnKz1PwySxLLcpMLWYAAEz4Bzg=</description>
-      <url>https://storage.cloud.google.com/new_vaf_mods/25_Squadron_v1.0.ozp</url>
+      <url>https://storage.googleapis.com/new_vaf_mods/25_Squadron_v1.0.ozp</url>
     </mod>
     <mod ident="476RangeTargets" file="476RangeTargets.zip" bytes="46251611" xxhsum="17fd97171bbfe90b" category="">
-      <url>https://storage.cloud.google.com/new_vaf_mods/476RangeTargets.zip</url>
+      <url>https://storage.googleapis.com/new_vaf_mods/476RangeTargets.zip</url>
     </mod>
     <mod ident="617_Squadron_v1.1" file="617_Squadron_v1.1.ozp" bytes="254433693" xxhsum="1b918e5a9a4a4cbd" category="Texture">
       <description bytes="22">data:application/octet-stream;base64,eNozMzRXCC4sTUwpys9T8MksSy3KTC1mAABRsAdv</description>
-      <url>https://storage.cloud.google.com/new_vaf_mods/617_Squadron_v1.1.ozp</url>
+      <url>https://storage.googleapis.com/new_vaf_mods/617_Squadron_v1.1.ozp</url>
     </mod>
     <mod ident="F14_Liveries_v1.1" file="F14_Liveries_v1.1.ozp" bytes="307040455" xxhsum="0321d6e4f7549f64" category="Texture">
       <description bytes="38">data:application/octet-stream;base64,eNpzMzRR8MksSy3KTC1WSMsvUjA0MVJIzEtRMDJVCC4sTUwpys8rZgAA5FcL5w==</description>
-      <url>https://storage.cloud.google.com/new_vaf_mods/F14_Liveries_v1.1.ozp</url>
+      <url>https://storage.googleapis.com/new_vaf_mods/F14_Liveries_v1.1.ozp</url>
     </mod>
     <mod ident="JF-17_Livery_v1.0" file="JF-17_Livery_v1.0.ozp" bytes="353875713" xxhsum="f123b06f5682c6c3" category="Texture">
       <description bytes="19">data:application/octet-stream;base64,eNoLc3RT8HLTNTRX8MksSy3KTC1mAAAziAWG</description>
-      <url>https://storage.cloud.google.com/new_vaf_mods/JF-17_Livery_v1.0.ozp</url>
+      <url>https://storage.googleapis.com/new_vaf_mods/JF-17_Livery_v1.0.ozp</url>
     </mod>
     <mod ident="M2000C_Liveries_v1.0" file="M2000C_Liveries_v1.0.ozp" bytes="47068581" xxhsum="6d0d2531245071fe" category="Texture">
       <description bytes="16">data:application/octet-stream;base64,eNrzNTIwMHBW8MksSy3KTC1mAAAkvgS2</description>
-      <url>https://storage.cloud.google.com/new_vaf_mods/M2000C_Liveries_v1.0.ozp</url>
+      <url>https://storage.googleapis.com/new_vaf_mods/M2000C_Liveries_v1.0.ozp</url>
     </mod>
     <mod ident="T-45_Liveries_v1.0" file="T-45_Liveries_v1.0.ozp" bytes="11318604" xxhsum="29c63b57d07930e1" category="Texture">
       <description bytes="18">data:application/octet-stream;base64,eNoLc3RTCNE1MVXwySxLLcpMLWYAAC8GBUs=</description>
-      <url>https://storage.cloud.google.com/new_vaf_mods/T-45_Liveries_v1.0.ozp</url>
+      <url>https://storage.googleapis.com/new_vaf_mods/T-45_Liveries_v1.0.ozp</url>
     </mod>
   </references>
 </Open_Mod_Manager_Repository>
