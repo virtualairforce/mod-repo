@@ -4,13 +4,9 @@
   <title>VAF</title>
   <downpath />
   <references count="0">
-    <mod ident="2_Squadron_v2.2" file="2_Squadron_v2.2.ozp" bytes="235559663" xxhsum="6dd3a44672439501" category="Texture">
+    <mod ident="3_Squadron_v1.5" file="3_Squadron_v1.5.ozp" bytes="86455380" xxhsum="90851c15a5887955" category="Texture">
       <description bytes="20">data:application/octet-stream;base64,eNozUgguLE1MKcrPU/DJLEstykwtZgAASKEHAw==</description>
       <url>https://storage.googleapis.com/new_vaf_mods/2_Squadron_v2.2.ozp</url>
-    </mod>
-    <mod ident="3_Squadron_v1.5" file="3_Squadron_v1.5.ozp" bytes="86455380" xxhsum="90851c15a5887955" category="Texture">
-      <description bytes="24">data:application/octet-stream;base64,eNozVgguLE1MKcrPU/DJLEstykwtVjDUM2UAAGcdB7g=</description>
-      <url>https://storage.googleapis.com/new_vaf_mods/3_Squadron_v1.5.ozp</url>
     </mod>
     <mod ident="4AAC_v1.1" file="4AAC_v1.1.ozp" bytes="142666272" xxhsum="ecd21f60be7c63fb" category="Texture">
       <description bytes="14">data:application/octet-stream;base64,eNozcXR0VvDJLEstykwtZgAAHt8EXQ==</description>
@@ -42,6 +38,10 @@
     <mod ident="T-45_Liveries_v1.0" file="T-45_Liveries_v1.0.ozp" bytes="11318604" xxhsum="29c63b57d07930e1" category="Texture">
       <description bytes="18">data:application/octet-stream;base64,eNoLc3RTCNE1MVXwySxLLcpMLWYAAC8GBUs=</description>
       <url>https://storage.googleapis.com/new_vaf_mods/T-45_Liveries_v1.0.ozp</url>
+    </mod>
+    <mod ident="2_Squadron_v2.3" file="2_Squadron_v2.3.ozp" bytes="404683654" xxhsum="904faadbaa1721c2" category="Texture">
+      <description bytes="20">data:application/octet-stream;base64,eNozUgguLE1MKcrPU/DJLEstykwtZgAASKEHAw==</description>
+      <url>https://storage.googleapis.com/new_vaf_mods/2_Squadron_v2.3.ozp</url>
     </mod>
   </references>
 </Open_Mod_Manager_Repository>
