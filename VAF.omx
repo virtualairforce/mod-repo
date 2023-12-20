@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Open_Mod_Manager_Repository>
-  <uuid>9a61bf11-1c76-46a9-b521-a0e7c6eeb33c</uuid>
+  <uuid>3676d2be-12f9-4f23-a5e1-32b84115015e</uuid>
   <title>VAF</title>
   <downpath></downpath>
   <references count="0">
@@ -20,8 +20,8 @@
       <description bytes="21">data:application/octet-stream;base64,eNozMlUILixNTCnKz1PwySxLLcpMLWYAAEz4Bzg=</description>
       <url>https://storage.googleapis.com/new_vaf_mods/25_Squadron_v1.0.ozp</url>
     </mod>
-    <mod ident="476RangeTargets" file="476RangeTargets.zip" bytes="46251611" xxhsum="17fd97171bbfe90b" category="">
-      <url>https://storage.googleapis.com/new_vaf_mods/476RangeTargets.zip</url>
+    <mod ident="476RangeTargets" file="476RangeTargets.ozp" bytes="37504578" xxhsum="50ddafc3753f732d" category="Generic">
+      <url>https://storage.googleapis.com/new_vaf_mods/476RangeTargets.ozp</url>
     </mod>
     <mod ident="617_Squadron_v1.1" file="617_Squadron_v1.1.ozp" bytes="254433693" xxhsum="1b918e5a9a4a4cbd" category="Texture">
       <description bytes="22">data:application/octet-stream;base64,eNozMzRXCC4sTUwpys9T8MksSy3KTC1mAABRsAdv</description>
